@@ -2,6 +2,6 @@
 An illustration of my HTML knowledge
 
 ## HTML knowledge 
-- Header & Tile 
+- Header & Title 
 - Images & Links 
 - Lists 
